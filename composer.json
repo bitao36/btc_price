@@ -1,0 +1,15 @@
+{
+    "name": "satoshi/bitao",
+    "description": "test aplication",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bitao36"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
